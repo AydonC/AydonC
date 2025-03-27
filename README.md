@@ -1,5 +1,5 @@
-## VIEW MY PORTFOLIO!
-# https://ajcupido.netlify.app
+# VIEW MY PORTFOLIO!
+https://ajcupido.netlify.app
 
 ## 👋 Hi, I'm **Aydon Jon Cupido**  
 
