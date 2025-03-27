@@ -1,5 +1,3 @@
-# VIEW MY PORTFOLIO!
-https://ajcupido.netlify.app
 
 ## 👋 Hi, I'm **Aydon Jon Cupido**  
 
@@ -13,6 +11,8 @@ https://ajcupido.netlify.app
 🎨 Occasionally, I explore **designing** in **Figma** to craft stunning UI/UX.  
 ❤️ Passionate about **coding** & turning creativity into reality!
 
+# VIEW MY PORTFOLIO!
+https://ajcupido.netlify.app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aydon-jon-cupido-22b513286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cupido.aydon@gmail.com) 
